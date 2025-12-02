@@ -1,0 +1,5 @@
+id_cliente,nombre,fecha_alta,provincia,email
+1001,Ana Núñez,2021-01-15,A Coruña,ana.nunez@example.com
+1002,José Perez,15/03/2022,La Coruña,jose.perez@example.com
+1003,María López,2020-11-05,Araba/Álava,maria.lopez@example.com
+1004,Pedro GOMEZ,2022-07-01,Madrid,pedro.gomez@example.com

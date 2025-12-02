@@ -1,0 +1,26 @@
+[
+  {
+    "evento": "click",
+    "producto": "P33",
+    "ts": "2025-09-01T12:03:09Z",
+    "user": "u123"
+  },
+  {
+    "evento": "view",
+    "producto": "P77",
+    "ts": "2025-09-02T08:11:00Z",
+    "user": "u777"
+  },
+  {
+    "evento": "click",
+    "producto": "P12",
+    "ts": "2025-09-02T09:45:30Z",
+    "user": "u555"
+  },
+  {
+    "evento": "click",
+    "producto": "P33",
+    "ts": "2025-09-12T17:20:10Z",
+    "user": "u888"
+  }
+]
